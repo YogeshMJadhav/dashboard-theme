@@ -24,7 +24,7 @@
     "history": "^4.7.2",
     "lodash.defaultsdeep": "^4.6.0",
     "path": "^0.12.7",
-    "prismjs": "^1.15.0",
+    "prismjs": "^1.23.0",
     "prop-types": "^15.6.1",
     "razzle": "^2.4.0",
     "razzle-plugin-flow": "^1.0.0",
